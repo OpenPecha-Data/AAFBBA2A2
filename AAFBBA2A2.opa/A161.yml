@@ -1,0 +1,27 @@
+segment_sources:
+  ID0D07C7D:
+    type: origin_type
+    relation: translation
+    base: D3D4
+    lang: en
+  IE929C92E:
+    type: origin_type
+    relation: translation
+    base: F349
+    lang: bo
+segment_pairs:
+  0633cf83b35344dda711e6973e606161:
+    ID0D07C7D: 7edf4401fb5e44e684d1cba1206a338d
+    IE929C92E: 79c51217fb464aba8b7e6a13cb713518
+  f814e08a64b5441abf6833cc42291f31:
+    ID0D07C7D: d2b2742c76a84eaf84aa14de94eae5c4
+    IE929C92E: 536616ce81494c11bde5630bd9a969b5
+  a34c93c0d2dd4b4298350b6fc3efc168:
+    ID0D07C7D: af582ceb7bc74c7990dc5c19a5882a49
+    IE929C92E: 30376bdbf40c491f85584c90b36d9f9f
+  f205699dad0e47889e0704935d2878a9:
+    ID0D07C7D: 86d7289bab964eb4a3175585029b2a08
+    IE929C92E: 1a1fe911607741ddb49b3b22da0ab93c
+  de6e2d06e2fc40d68ee7a13a5910b7c9:
+    ID0D07C7D: d38b0dce2730481ab460f72f1dacc4b9
+    IE929C92E: 093957894397456aa930a7784e79c025
